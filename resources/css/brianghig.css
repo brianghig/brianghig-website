@@ -1,0 +1,45 @@
+.appBanner {
+    color:#ffffff;
+}
+
+.college-item {
+	width: 400px;	
+}
+
+.college-major {
+	font-weight: bold;
+}
+
+.college-location {
+	clear: both;
+}
+
+.college-name {
+	float: left;
+}
+
+.college-dates {
+	float: right;
+	font-style: italic;
+}
+
+.job-item {
+	margin-bottom: 30px;
+	width: 400px;
+}
+
+.job-employer {
+	float: left;
+	font-weight: bold;
+}
+
+.job-dateRange {
+	float: right;
+	font-style: italic;
+}
+
+.job-description {
+	clear: both;
+	padding-top: 5px;
+	padding-left: 10px;
+}
